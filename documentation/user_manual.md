@@ -90,7 +90,7 @@ You can terminate a schedule, even if not yet completely finished.
 Long press on a schedule to move it to up or down in the schedules list order.
 
 #### Deleting a schedule, a weekly task or a summary
-In the schedules list, the summaries list, as well as in the time slots list, you can delete an element swiping it from the right to the left.
+In the schedules list, the summaries list, as well as in the time slots list, you can delete an element swiping it from the right to the left (for Arabic language display, swipe from left to right).
 
 #### Editing a schedule time slot
 In the schedule details view, you can edit a time slot by long pressing on it. A dialog is then opened to choose a new time slot.
