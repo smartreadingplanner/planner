@@ -42,6 +42,8 @@ _Schedule dedicated time slots wizard:_ <br><br>
 4. When you have finished your reading task, please click on the `End Task` button. This is **mandatory** so your reading time is taken into account in the schedule, and your notes are saved. <br><br>
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/7_run_task.png" width="200">
 
+> The application will notify the user with a short 3 seceonds vibration at the end of the task duration. For example, for a task 13h-14h, if you start the task at 13h05, then around 14h05 the application will vibrate shortly for 3 seconds to notify you that the task duration is coming to its term.
+
 When you end the task, if : <br>
 i. the dedicated reading time is fully consumed <br>
 ii. or the end date is passed <br>
@@ -62,6 +64,10 @@ The timetable view shows a daily tasks based view, for all the active schedules.
 For each schedule, you can create a summary. You can build the summary by aggregating the schedule tasks notes, or you can create a summary from scratch.
 These summaries can be shared to other people. cf. screenshots below: <br><br>
 You can also consult your notes in the schedule details view menu (cf below)
+
+There is a size limit for summaries and notes created by users:<br>
+- For notes: `10.000` characters
+- For summaries: `100.000` characters
 
 _Schedule menu_<br><br>
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/summary_menu_item.png" width="200">
@@ -91,6 +97,8 @@ Long press on a schedule to move it to up or down in the schedules list order.
 
 #### Deleting a schedule, a weekly task, a summary or a tag
 In the schedules list, the summaries list, the tags list, as well as in the time slots list, you can delete an element swiping it from the right to the left (for Arabic language display, swipe from left to right).
+
+> Deleting a schedule will not delete its associated summary. However, the schedule associated notes will be deleted.
 
 #### Editing a schedule time slot
 In the schedule details view, you can edit a time slot by long pressing on it. A dialog is then opened to choose a new time slot.
