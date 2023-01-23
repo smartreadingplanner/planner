@@ -65,7 +65,7 @@ For each schedule, you can create a summary. You can build the summary by aggreg
 These summaries can be shared to other people. cf. screenshots below: <br><br>
 You can also consult your notes in the schedule details view menu (cf below)
 
-The is a size limit for summaries and notes created by users:<br>
+There is a size limit for summaries and notes created by users:<br>
 - For notes: `10.000` characters
 - For summaries: `100.000` characters
 
