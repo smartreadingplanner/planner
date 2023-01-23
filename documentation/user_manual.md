@@ -42,7 +42,7 @@ _Schedule dedicated time slots wizard:_ <br><br>
 4. When you have finished your reading task, please click on the `End Task` button. This is **mandatory** so your reading time is taken into account in the schedule, and your notes are saved. <br><br>
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/7_run_task.png" width="200">
 
-> The application will notify the user with a short 3 seceonds vibration at the end of the task duration. For example, for a task 13h-14h, if you start the task at 13h05, then around 14h05 the application will vibrate shortly for 3 seconds to notify you that the task duration is coming to its term.
+> The application notifies the user with a short 3 seceonds vibration when the dedicated task duration ends.
 
 When you end the task, if : <br>
 i. the dedicated reading time is fully consumed <br>
