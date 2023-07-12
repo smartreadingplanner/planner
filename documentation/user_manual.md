@@ -208,11 +208,11 @@ For example:
 - The application language
 - The system display theme
 
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/17.1_settings_display.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/17.1_settings_display.png" width="200">
 
 ### Application menu
 You can check the application menu for more functionnalities.<br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/18_app_menu.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/18_app_menu.png" width="200">
 
 # Download
 (Play Store) https://play.google.com/store/apps/details?id=ch.baker.planner
