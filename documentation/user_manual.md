@@ -136,7 +136,7 @@ _View, edit and share notes_<br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/13_notes.png" width="200">
 
 _View, edit and share summaries_<br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/12.1__init_summary.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/12.2_edit_share_summary.png" width="200">
 
 ### Other operations on schedules
 #### Pausing schedules for a given period
