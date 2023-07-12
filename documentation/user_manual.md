@@ -29,12 +29,12 @@ And for study or reading schedules, the following info:
 Below is an illustration of the schedule creation form:
 
 _Schedule information wizard:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/2_schedule_form_study.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/2_schedule_form_study.png" width="200">
 
 > - To get notified about the coming tasks:
 -  Please add notifications to the schedule.
 -  Please also ensure that the **notifications are allowed** on your device for the `SmartPlanner` application. <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/5_schedule_notification.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/5_schedule_notification.png" width="200">
 > - The application will ask you to allow notifications when needed.
 
 ### Schedules view
@@ -45,24 +45,24 @@ The list contains schedules headers with brief important information about the s
 > - For study schedules also, the study progress is indicated in the schedule header.
 
 _Schedules list:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/3_schedules_list_study.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/3_schedules_list_study.png" width="200">
 
 #### Additional custom tasks
 
 For both study and agenda schedules, The user can add additional tasks, as illustrated below: <br><br>
 
 _Adding custom time slots:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.1_add_custom_tasks.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.1_add_custom_tasks.png" width="200">
 
 _Display of custom time slots:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.1_custom_tasks_display.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.1_custom_tasks_display.png" width="200">
 
 For weekly schedules:
 _Adding weekly custom time slots:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.2_add_custom_tasks_weekly.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.2_add_custom_tasks_weekly.png" width="200">
 
 _Display of weekly custom time slots:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.2_custom_tasks_display_weekly.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.2_custom_tasks_display_weekly.png" width="200">
 
 ### Archived schedules:
 When the end time (schedule limit or the number of occurrences) of a schedule is expired, then the schedule is marked as expired.
@@ -74,7 +74,7 @@ Then the schedule is archived as follow:
 - For monthly and yearly schedules, the schedule is archived after 30 days
 
 _Archived schedules:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/6.1_expired_then_archived_schedule.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/6.1_expired_then_archived_schedule.png" width="200">
 
 Finished schedule are also archived as well.
 
@@ -89,34 +89,34 @@ For study schedules, the statistics contains also the following data:
 - `Accomplishments`: How many times the schedule was finished and restarted.
 
 > - Schedule statistics <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/7_schedule_details_study.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/7_schedule_details_study.png" width="200">
 
 The details view contains also the timeslots, repeat mode details and notifications...etc
 
 ### Timetable view
 The timetable view shows the daily tasks (each day with its scheduled tasks), for all the active schedules. Below is an illustration. <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/8_timetable.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/8_timetable.png" width="200">
 
 ### Run the schedule
 1. Upon notification reception, or if you want to run the schedule outside the dedicated time slots, go to the schedule details view and click on the `Run Task` **when starting your task**
 2. While running your task, you have the possibility to add your personal notes. You can share these notes with other people. <br>
 3. You can also pause the task at any time to have a break, and resume it later on. <br>
 4. When you have finished your task, please click on the `End Task` button. This is **mandatory** so your accomplished time is taken into account in the schedule, and your notes are saved. <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/9.0__task_run.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/9.0__task_run.png" width="200">
 
 While the task is running, or paused, a notification is shown indicating the running (or paused task), with its details (schedule name, start time, accomplished time, the task note). Below is an illustration:
 _Running task notification:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/9.1_notification_running.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/9.1_notification_running.png" width="200">
 
 _Paused task notification:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/9.2_notification_paused_with_notes.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/9.2_notification_paused_with_notes.png" width="200">
 
 For study schedules, when the user ends the task, if the dedicated study time is fully consumed, then a dialog is displayed to the user to choose one of the following actions:
 i. Finish and archive the studz schedule <br>
 ii. Continue the study schedule <br>
 iii. Restart the schedule. The accomplished time and the schedule progress is reset to `0`, and the schedule can be started from the beginning. <br><br>
 
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/10_reading_time_consumed_dialog.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/10_reading_time_consumed_dialog.png" width="200">
 
 # Further functionalities
 
@@ -130,13 +130,13 @@ There is a size limit for summaries and notes created by users:<br>
 - For summaries: `100.000` characters
 
 _Schedule menu_<br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/11_schedule_details_menu.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/11_schedule_details_menu.png" width="200">
 
 _View, edit and share notes_<br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/13_notes.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/13_notes.png" width="200">
 
 _View, edit and share summaries_<br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/12.1__init_summary.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/12.1__init_summary.png" width="200">
 
 ### Other operations on schedules
 #### Pausing schedules for a given period
@@ -144,7 +144,7 @@ You can pause a schedule for a given period. You can then resume it later on.<br
 Paused schedules will have their notifications suspended during the pause period.<br>
 
 _Paused schedule example below: Aristotle's Physics_<br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/14_paused_schedule.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/14_paused_schedule.png" width="200">
 
 #### Terminating a schedule
 You can terminate a schedule, even if not yet completely finished.
@@ -169,10 +169,10 @@ You can then display only the schedules that have at least one of the filter tag
 Only filtered schedules will be displayed in the schedules list. And only the filtered schedules tasks will be displayed in the timetable view. <br>
 
 _When no filter is activated, the filter icon is shown as below:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/15.1_filter_off.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/15.1_filter_off.png" width="200">
 
 _When you clicks on the filter icon, a dialog appears to add the filter_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/15_filter_inprogress_history_or_sport.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/15_filter_inprogress_history_or_sport.png" width="200">
 
 In the filter above, only the schedules with the following properties are displayed:
 - In progress (started and not yet terminated)
@@ -180,20 +180,20 @@ In the filter above, only the schedules with the following properties are displa
 - Have one of the following tags: "History", or "Sport and Health Care".
 
 _The filter icon then indicates an active filter, as below_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/15.2_filter_on.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/15.2_filter_on.png" width="200">
 
 ### Tags
 Every schedule SHOULD have at least one associated tag (at most 3 tags). <br>
 There is a list of provided tags (e.g. Economy, Arts...etc). You can also create your own custom tags. <br>
 
 _The tags view_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/16.1_tags.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/16.1_tags.png" width="200">
 
 _User can add custom tags_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/16.2_add_tag.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/16.2_add_tag.png" width="200">
 
 The new tag "Algebra" is added as below, and can be associated to schedules: <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/16.4_added_custom_tag.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/16.4_added_custom_tag.png" width="200">
 
 # Settings
 ### Application settings
@@ -201,7 +201,7 @@ You can set some general settings for the application. For example:
 - The average reading time per page (e.g. 2min)
 - The min and max task durations (for time slots creation)
 
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/17.2_settings_app.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/17.2_settings_app.png" width="200">
 
 ### Display settings
 For example:
