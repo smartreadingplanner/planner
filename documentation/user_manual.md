@@ -164,7 +164,10 @@ In the schedules list, the summaries list, the tags list, you can delete an elem
 > Deleting a schedule will not delete its associated summary. However, the schedule associated notes will be deleted.
 
 #### Restarting a study schedule
-For study schedules, when the progress is >= 75%, then the user has the possibility to restart the schedule and restart the study or book reading from the beginning.
+For study schedules, when the progress is >= 75%, then the user has the possibility to restart the schedule and restart the study or book reading from the beginning. <br><br>
+
+_The restart button will appear in the bottom menu, as shown below:_ <br><br>
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/schedule_restart_button.png" width="200">
 
 #### Editing a schedule time slot
 In the schedule details view, you can edit a time slot by long pressing on it. A dialog is then opened to choose a new time slot.
