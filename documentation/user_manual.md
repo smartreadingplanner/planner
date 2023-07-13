@@ -1,5 +1,5 @@
 # **What** is the SmartPlanner application
-The `SmartPlanner` application is intended to assist the user to organize and follow in an effective and `scientific` manner his learning or studying tasks, as well as his general or normal tasks.\
+The `SmartPlanner` application is intended to assist the user to organize and follow in an effective and scientific manner his learning or studying tasks, as well as his general or normal tasks.\
 The user can elaborate a schedule (a studying schedule, or simply a normal schedule for general tasks). <br>
 The user can :
 - Create a schedule, and follow the schedule progress, statistics and other information
@@ -31,18 +31,21 @@ Below is an illustration of the schedule creation form:
 _Schedule information wizard:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/2_schedule_form_study.png" width="200">
 
-> - To get notified about the coming tasks:
--  Please add notifications to the schedule.
--  Please also ensure that the **notifications are allowed** on your device for the `SmartPlanner` application. <br><br>
+> To get notified about the schedule coming tasks:
+> -  Please add notifications to the schedule.
+> -  Please also ensure that the **notifications are allowed** on your device for the `SmartPlanner` application.
+
+_Schedule task notification_<br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/5_schedule_notification.png" width="200">
-> - The application will ask you to allow notifications when needed.
+
+> The application will ask you to allow notifications when needed.
 
 ### Schedules view
 The schedules view contains the list of created schedules. The study schedules are separated from the normal agenda schedules.
 The list contains schedules headers with brief important information about the schedule (title, start date, repeat mode, tags...etc). 
 
-> - For study schedules, the application gives the user an approximation about the ***expected study end date*** of the schedule.
-> - For study schedules also, the study progress is indicated in the schedule header.
+> For study schedules, the application gives the user an approximation about the ***expected study end date*** of the schedule.<br>
+> For study schedules also, the study progress is indicated in the schedule header.
 
 _Schedules list:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/3_schedules_list_study.png" width="200">
@@ -54,10 +57,12 @@ For both study and agenda schedules, The user can add additional tasks, as illus
 _Adding custom time slots:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.1_add_custom_tasks.png" width="200">
 
-_Display of custom time slots:_ <br><br>
+_Display of additional or custom time slots:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.1_custom_tasks_display.png" width="200">
 
-For weekly schedules:
+
+##### For weekly schedules:
+
 _Adding weekly custom time slots:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/4.2_add_custom_tasks_weekly.png" width="200">
 
@@ -88,7 +93,7 @@ For study schedules, the statistics contains also the following data:
 - `Progress`: The study progress, or percentage of the study accomplishment (based on the achieved time and the calculated reading time)
 - `Accomplishments`: How many times the schedule was finished and restarted.
 
-> - Schedule statistics <br><br>
+_Schedule statistics:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/7_schedule_details_study.png" width="200">
 
 The details view contains also the timeslots, repeat mode details and notifications...etc
@@ -104,18 +109,19 @@ The timetable view shows the daily tasks (each day with its scheduled tasks), fo
 4. When you have finished your task, please click on the `End Task` button. This is **mandatory** so your accomplished time is taken into account in the schedule, and your notes are saved. <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/9.0__task_run.png" width="200">
 
-While the task is running, or paused, a notification is shown indicating the running (or paused task), with its details (schedule name, start time, accomplished time, the task note). Below is an illustration:
+While the task is running, or paused, a notification is shown indicating the running (or paused task), with its details (schedule name, start time, accomplished time, the task note). Below is an illustration: <br><br>
 _Running task notification:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/9.1_notification_running.png" width="200">
 
 _Paused task notification:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/9.2_notification_paused_with_notes.png" width="200">
 
-For study schedules, when the user ends the task, if the dedicated study time is fully consumed, then a dialog is displayed to the user to choose one of the following actions:
+For study schedules, when the user ends the task, if the dedicated study time is fully consumed, then a dialog is displayed to the user to choose one of the following actions: <br>
 i. Finish and archive the studz schedule <br>
 ii. Continue the study schedule <br>
 iii. Restart the schedule. The accomplished time and the schedule progress is reset to `0`, and the schedule can be started from the beginning. <br><br>
 
+_Reading schedule end dialog:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/10_reading_time_consumed_dialog.png" width="200">
 
 # Further functionalities
