@@ -104,7 +104,7 @@ The details view contains also the timeslots, repeat mode details and notificati
 The timetable view shows the daily tasks (each day with its scheduled tasks), for all the active schedules. Below is an illustration. <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/8_timetable.png" width="200">
 
-> You can run the schedule directly via the schedule header play button.
+> You can run a task directly via the task header play button.
 
 ### Run the schedule
 1. Upon notification reception, or if you want to run the schedule outside the dedicated time slots, go to the schedule details view and click on the `Run Task` **when starting your task**
