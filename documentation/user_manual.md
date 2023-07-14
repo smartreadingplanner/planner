@@ -50,6 +50,8 @@ The list contains schedules headers with brief important information about the s
 _Schedules list:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/3_schedules_list_study.png" width="200">
 
+> You can run the schedule directly via the schedule header play button.
+
 #### Additional custom tasks
 
 For both study and agenda schedules, The user can add additional tasks, as illustrated below: <br><br>
@@ -101,6 +103,8 @@ The details view contains also the timeslots, repeat mode details and notificati
 ### Timetable view
 The timetable view shows the daily tasks (each day with its scheduled tasks), for all the active schedules. Below is an illustration. <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/8_timetable.png" width="200">
+
+> You can run the schedule directly via the schedule header play button.
 
 ### Run the schedule
 1. Upon notification reception, or if you want to run the schedule outside the dedicated time slots, go to the schedule details view and click on the `Run Task` **when starting your task**
