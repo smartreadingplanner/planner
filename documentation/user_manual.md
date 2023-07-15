@@ -133,7 +133,7 @@ _Reading schedule end dialog:_ <br><br>
 ### Summaries and notes
 For each schedule, you can create a summary. You can build the summary by aggregating the schedule tasks notes, or you can create a summary from scratch.
 These summaries can be shared to other people. cf. screenshots below: <br><br>
-You can also consult your notes in the schedule details view menu (cf below)
+You can consult your notes in the schedule details view menu (cf below)
 
 There is a size limit for summaries and notes created by users:<br>
 - For notes: `10.000` characters
@@ -144,6 +144,8 @@ _Schedule menu_<br><br>
 
 _View, edit and share notes_<br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/13_notes.png" width="200">
+
+The task runs with notes are indicated with the symbol 🗒 as shown above. <br><br>
 
 _View, edit and share summaries_<br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/featre/schedule_agenda/documentation/display/12.2_edit_share_summary.png" width="200">
