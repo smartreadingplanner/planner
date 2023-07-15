@@ -164,7 +164,7 @@ You can terminate a schedule, even if not yet completely finished.
 #### Reordering schedules
 Long press on a schedule to move it to up or down in the schedules list order.
 
-#### Deleting a schedule, a weekly task, a summary or a tag
+#### Deleting a schedule, a summary or a tag
 In the schedules list, the summaries list, the tags list, you can delete an element swiping it from the right to the left (for Arabic language display, swipe from left to right).
 
 > Deleting a schedule will not delete its associated summary. However, the schedule associated notes will be deleted.
