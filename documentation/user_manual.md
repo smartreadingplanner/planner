@@ -134,7 +134,7 @@ ii. Continue the study schedule <br>
 iii. Restart the schedule. The accomplished time and the schedule progress is reset to `0`, and the schedule can be started from the beginning. <br><br>
 
 _Reading schedule end dialog:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/10_reading_time_consumed_dialog.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/reading_time_consumed_dialog.png" width="200">
 
 #### Audio listening to files and web pages
 You can listen  (audio reading) to files (pdf, microsoft docx, md or text files),
@@ -149,7 +149,7 @@ You have the possibility to adapt the audio settings (TTS engine, language...etc
 In this view, you can consult, search, edit, or organize in folders your notes and summaries.
 To move a note or summary into a folder, simply drag and drop the note (or summary) inside the desired folder.
 
----------------------------> TODO screenshot
+_Moving a note into a specific folder:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/moving_note_into_folder.png" width="200">
 
 To create a folder, use the floating button.
@@ -157,7 +157,7 @@ To create a folder, use the floating button.
 ### Statistics view
 Contains all the statistics about the schedules and their runned tasks (tasks run time per day, per tag, task run modes...etc).
 
----------------------------> TODO screenshot
+_User schedules statistics:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_1.png" width="200">
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_2.png" width="200">
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_3.jpg" width="200">
@@ -168,7 +168,7 @@ Contains all the statistics about the schedules and their runned tasks (tasks ru
 ### Global search
 You have the possibility to search your schedules, notes, summaries and their content.
 
----------------------------> TODO screenshot
+_Searches in schedules, summaries and notes contents:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/search_notes.png" width="200">
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/search_schedules.png" width="200">
 
@@ -225,7 +225,7 @@ You can set some general settings for the application. For example:
 
 You can also set the global audio parameters (The TTS speech engine parameters). cf screenshot below.
 
----------------------------> TODO audio settings screenshot
+_Application settings:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/settings_app.png" width="200">
 
 ### Display settings
