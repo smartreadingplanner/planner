@@ -118,7 +118,7 @@ _View, edit and share summaries_<br><br>
 1. Upon notification reception, or if you want to run the schedule outside the dedicated time slots, go to the schedule details view and click on the `Run Task` **when starting your task**
 2. While running your task, you have the possibility to add your personal notes. <br>
 3. You can also pause the task at any time to have a break, and resume it later on. <br>
-4. When you have finished your task, please click on the `End Task` button. This is **mandatory** so your accomplished time is taken into account in the schedule, and your notes are saved. <br><br>
+4. When you have finished your task, please click on the `End Task` button. This is **mandatory** so your accomplished time is taken into account in the schedule, your notes are saved, and statistics are updated. <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/run_mode_normal.png" width="200">
 
 While the task is running, or paused, a notification is shown indicating the running (or paused task), with its details (schedule name, start time, accomplished time, the task note). Below is an illustration: <br><br>
@@ -163,17 +163,18 @@ Contains all the statistics about the schedules and their runned tasks (tasks ru
 _User schedules statistics:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_1.png" width="200">
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_2.png" width="200">
-
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_3.jpg" width="200" height="360">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_4.jpg" width="200" height="360">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_3.jpg" width="200" height="355">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_4.jpg" width="200" height="355">
 
 # Further functionalities
 
 ### Global search
 You have the possibility to search your schedules, notes, summaries and their content.
 
-_Searches in schedules, summaries and notes contents:_ <br><br>
+_Searching in schedules:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/search_notes.png" width="200">
+
+_Searching in summaries and notes contents:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/search_schedules.png" width="200">
 
 ### Other operations on schedules
