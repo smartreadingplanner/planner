@@ -140,7 +140,10 @@ _Reading schedule end dialog:_ <br><br>
 You can listen  (audio reading) to files (pdf, microsoft docx, md or text files),
 You can also listen to web pages content via the integrated browser.
 
+_Audio listening to a local file:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/run_mode_file.png" width="200">
+
+_Audio listening to an internet web page:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/run_mode_browser.png" width="200">
 
 You have the possibility to adapt the audio settings (TTS engine, language...etc) for the read fil or web page.
@@ -160,8 +163,8 @@ Contains all the statistics about the schedules and their runned tasks (tasks ru
 _User schedules statistics:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_1.png" width="200">
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_2.png" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_3.jpg" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_4.jpg" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_3.jpg" width="200" heigth="500">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_4.jpg" width="200" heigth="500">
 
 # Further functionalities
 
