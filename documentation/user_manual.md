@@ -123,10 +123,10 @@ _View, edit and share summaries_<br><br>
 
 While the task is running, or paused, a notification is shown indicating the running (or paused task), with its details (schedule name, start time, accomplished time, the task note). Below is an illustration: <br><br>
 _Running task notification:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/9.1_notification_running.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/notification_running.png" width="200">
 
 _Paused task notification:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/9.2_notification_paused_with_notes.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/notification_paused_with_notes.png" width="200">
 
 For study schedules, when the user ends the task, if the dedicated study time is fully consumed, then a dialog is displayed to the user to choose one of the following actions: <br>
 i. Finish and archive the studz schedule <br>
@@ -160,8 +160,8 @@ Contains all the statistics about the schedules and their runned tasks (tasks ru
 ---------------------------> TODO screenshot
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_1.png" width="200">
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_2.png" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_3.png" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_4.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_3.jpg" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_4.jpg" width="200">
 
 # Further functionalities
 
