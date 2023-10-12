@@ -161,10 +161,10 @@ To create a folder, use the floating button.
 Contains all the statistics about the schedules and their runned tasks (tasks run time per day, per tag, task run modes...etc).
 
 _User schedules statistics:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_1.png" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_2.png" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_3.jpg" width="200" heigth="500">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_4.jpg" width="200" heigth="500">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_1.png" width="200" heigth="400">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_2.png" width="200" heigth="400">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_3.jpg" width="200" heigth="400">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_4.jpg" width="200" heigth="400">
 
 # Further functionalities
 
