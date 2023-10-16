@@ -29,14 +29,14 @@ And for study or reading schedules, the following info:
 Below is an illustration of the schedule creation form:
 
 _Schedule information wizard:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/new_schedule.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/new_schedule.png" width="200">
 
 > To get notified about the schedule coming tasks:
 > -  Please add notifications to the schedule.
 > -  Please also ensure that the **notifications are allowed** on your device for the `SmartPlanner` application.
 
 _Schedule task notification_<br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/schedule_notification.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/schedule_notification.png" width="200">
 
 > The application will ask you to allow notifications when needed.
 
@@ -48,19 +48,19 @@ The list contains schedules headers with brief important information about the s
 > For study schedules also, the study progress is indicated in the schedule header.
 
 _Schedules list:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/schedules_list.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/schedules_list.png" width="200">
 
 #### Additional custom tasks
 
 For both study and agenda schedules, The user can add additional tasks, as illustrated below: <br><br>
 
 _Adding custom time slots:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/add_custom_slots.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/add_custom_slots.png" width="200">
 
 ##### For weekly schedules:
 
 _Adding weekly custom time slots:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/add_custom_weekly_time_slots.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/add_custom_weekly_time_slots.png" width="200">
 
 ### Archived schedules:
 When the end time (schedule limit or the number of occurrences) of a schedule is expired, then the schedule is marked as expired.
@@ -86,16 +86,16 @@ For study schedules, the statistics contains also the following data:
 The schedule details contains also the schedule run statistics, the schedule notes, and eventual achievements. As well as schedule timeslots, repeat mode details and notifications
 
 _Schedule details:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/schedule_details_study_1.png" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/schedule_details_study_2.png" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/schedule_details_study_3.png" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/schedule_details_study_4.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/schedule_details_study_1.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/schedule_details_study_2.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/schedule_details_study_3.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/schedule_details_study_4.png" width="200">
 
 The task runs with notes are indicated with the symbol 🗒. <br><br>
 
 ### Timetable view
 The timetable view shows the daily tasks (each day with its scheduled tasks), for all the active schedules. Below is an illustration. <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/timetable.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/timetable.png" width="200">
 
 > You can run a task directly via the task header play button.
 
@@ -109,24 +109,24 @@ There is a size limit for summaries and notes created by users:<br>
 - For summaries: `100.000` characters
 
 _View, edit and share notes_<br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/notes.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/notes.png" width="200">
 
 _View, edit and share summaries_<br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/summary.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/summary.png" width="200">
 
 ### Run the schedule
 1. Upon notification reception, or if you want to run the schedule outside the dedicated time slots, go to the schedule details view and click on the `Run Task` **when starting your task**
 2. While running your task, you have the possibility to add your personal notes. <br>
 3. You can also pause the task at any time to have a break, and resume it later on. <br>
 4. When you have finished your task, please click on the `End Task` button. This is **mandatory** so your accomplished time is taken into account in the schedule, your notes are saved, and statistics are updated. <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/run_mode_normal.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/run_mode_normal.png" width="200">
 
 While the task is running, or paused, a notification is shown indicating the running (or paused task), with its details (schedule name, start time, accomplished time, the task note). Below is an illustration: <br><br>
 _Running task notification:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/notification_running.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/notification_running.png" width="200">
 
 _Paused task notification:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/notification_paused_with_notes.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/notification_paused_with_notes.png" width="200">
 
 For study schedules, when the user ends the task, if the dedicated study time is fully consumed, then a dialog is displayed to the user to choose one of the following actions: <br>
 i. Finish and archive the studz schedule <br>
@@ -134,26 +134,28 @@ ii. Continue the study schedule <br>
 iii. Restart the schedule. The accomplished time and the schedule progress is reset to `0`, and the schedule can be started from the beginning. <br><br>
 
 _Reading schedule end dialog:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/reading_time_consumed_dialog.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/reading_time_consumed_dialog.png" width="200">
 
 #### Audio listening to files and web pages
 You can listen  (audio reading) to files (pdf, microsoft docx, md or text files),
 You can also listen to web pages content via the integrated browser.
 
 _Audio listening to a local file:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/run_mode_file.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/run_mode_file.png" width="200">
 
 _Audio listening to an internet web page:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/run_mode_browser.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/run_mode_browser.png" width="200">
 
 You have the possibility to adapt the audio settings (TTS engine, language...etc) for the read fil or web page.
 
+> For webpages, the audio controls are available only after the page html content is loaded.
+
 ### Notes and Summaries view
 In this view, you can consult, search, edit, or organize in folders your notes and summaries.
-To move a note or summary into a folder, simply drag and drop the note (or summary) inside the desired folder.
+To move a note or summary into a folder, simply drag and drop the note (or summary), or the whole schedule notes inside the desired folder.
 
 _Moving a note into a specific folder:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/moving_note_into_folder.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/moving_note_into_folder.png" width="200">
 
 To create a folder, use the floating button.
 
@@ -161,10 +163,10 @@ To create a folder, use the floating button.
 Contains all the statistics about the schedules and their runned tasks (tasks run time per day, per tag, task run modes...etc).
 
 _User schedules statistics:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_1.png" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_2.png" width="200">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_3.jpg" width="200" height="355">
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/statistics_4.jpg" width="200" height="355">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_1.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_2.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_3.jpg" width="200" height="355">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_4.jpg" width="200" height="355">
 
 # Further functionalities
 
@@ -172,10 +174,10 @@ _User schedules statistics:_ <br><br>
 You have the possibility to search your schedules, notes, summaries and their content.
 
 _Searching in schedules:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/search_notes.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/search_notes.png" width="200">
 
 _Searching in summaries and notes contents:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/search_schedules.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/search_schedules.png" width="200">
 
 ### Other operations on schedules
 #### Pausing schedules for a given period
@@ -208,7 +210,7 @@ You can then display only the schedules that have at least one of the filter tag
 Only filtered schedules will be displayed in the schedules list. And only the filtered schedules tasks will be displayed in the time.<br>
 
 _When you clicks on the filter icon, a dialog appears to add the filter_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/schedules_filter.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/schedules_filter.png" width="200">
 
 In the filter above, only the schedules with ,history' tag are displayed.
 
@@ -220,7 +222,7 @@ Every schedule SHOULD have at least one associated tag (at most 3 tags). <br>
 There is a list of provided tags (e.g. Economy, Arts...etc). You can also create your own custom tags. <br>
 
 _The tags view_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/tags.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/tags.png" width="200">
 
 # Settings
 ### Application settings
@@ -231,18 +233,18 @@ You can set some general settings for the application. For example:
 You can also set the global audio parameters (The TTS speech engine parameters). cf screenshot below.
 
 _Application settings:_ <br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/settings_app.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/settings_app.png" width="200">
 
 ### Display settings
 For example:
 - The application language
 - The system display theme
 
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/settings_display.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/settings_display.png" width="200">
 
 ### Application menu
 You can check the application menu for more functionnalities.<br><br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/v2.1.x/documentation/display/app_menu.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/app_menu.png" width="200">
 
 # Download
 (Play Store) https://play.google.com/store/apps/details?id=ch.baker.planner
