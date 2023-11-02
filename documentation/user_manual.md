@@ -248,3 +248,5 @@ You can check the application menu for more functionnalities.<br><br>
 
 # Download
 (Play Store) https://play.google.com/store/apps/details?id=ch.baker.planner
+
+(App Store) https://apps.apple.com/us/app/smartplanner-goals-made-easy/id6470530541
