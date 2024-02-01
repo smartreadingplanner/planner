@@ -228,6 +228,12 @@ You become a member of a specific group only when the group owner accepts your j
 You can upload a backup of your schedules and application data on your Google Drive account.
 You can later download this backup on the same device (be aware this will erase the actual application data). Or download this backup on another device.
 
+# Upload content to Google Drive
+You can upload your content (summaries, folders with various notes & summaries) to your Google Drive.
+
+# Save content locally in the device
+You can save your content (summaries, folders with various notes & summaries) in your local device.
+
 # Advanced themes
 Upgraded users have access to advanced application themes.
 
