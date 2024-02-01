@@ -121,6 +121,9 @@ _View, edit and share summaries_<br><br>
 4. When you have finished your task, please click on the `End Task` button. This is **mandatory** so your accomplished time is taken into account in the schedule, your notes are saved, and statistics are updated. <br><br>
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/run_mode_normal.png" width="200">
 
+> You can update the task duration at any time.
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/task_note_edit_duration.png" width="200">
+
 While the task is running, or paused, a notification is shown indicating the running (or paused task), with its details (schedule name, start time, accomplished time, the task note). Below is an illustration: <br><br>
 _Running task notification:_ <br><br>
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/notification_running.png" width="200">
@@ -129,7 +132,7 @@ _Paused task notification:_ <br><br>
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/notification_paused_with_notes.png" width="200">
 
 For study schedules, when the user ends the task, if the dedicated study time is fully consumed, then a dialog is displayed to the user to choose one of the following actions: <br>
-i. Finish and archive the studz schedule <br>
+i. Finish and archive the study schedule <br>
 ii. Continue the study schedule <br>
 iii. Restart the schedule. The accomplished time and the schedule progress is reset to `0`, and the schedule can be started from the beginning. <br><br>
 
@@ -167,6 +170,59 @@ _User schedules statistics:_ <br><br>
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_2.png" width="200">
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_3.jpg" width="200" height="355">
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_4.jpg" width="200" height="355">
+
+# Cloud content
+
+You can share your content (notes, summaries and statistics) with other users online. You can get also content matching your respective schedules (match by tags ou keywords).
+
+## How content is shared
+When you share a content (note, summary or schedule status) online, it is shared with the following metadata:
+- The tags of the schedule to wich the content belongs
+- The keywords of the schedule to wich the content belongs
+- The sharing context, which is the groups with which to share privately the content with.
+  No groups means that the content is shared publicly with all users. If some groups are specified, only these groups members can access the shared content.
+
+Once, you can update or delete the content on the cloud.
+
+### Sharing notes and summaries
+In the notes view, and summary view, you have the menu to share the content on the cloud. Below an illustration example for sharing a note online.
+
+_Task note menu:_ <br><br>
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/task_view_menu.png" width="200">
+
+_Sharing a note privately within a group:_ <br><br>
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/cloud_sharing_status_private.png" width="200">
+
+### Sharing schedule's status
+The schedule's status can only shared within groups. It can not be shared publicly with all users.
+
+## Real time fetched content for schedules
+For each schedule, cloud content is fetched automatically on real time. The content is fetched based on the schedule tags and keywords.
+
+_Notifications about new cloud content:_ <br><br>
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/schedules_list_with_cloud_notifs.png" width="200">
+
+_Cloud matching content for a given schedule:_ <br><br>
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/schedules_new_cloud_content.png" width="200">
+
+## Cloud groups
+Every user can create a group on the cloud. Other users online can then join this group.
+The group members can then share content privately (content accessible only for group members) within the group.
+
+_Cloud groups:_ <br><br>
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/cloud_groups.png" width="200">
+
+_Cloud group content:_ <br><br>
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/cloud_group_content.png" width="200">group content>
+
+The group owner can manage the group settings. Accept or decline users requests to join the group. Or delete members from the group.
+
+_Cloud group settings:_ <br><br>
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/cloud_group_settings.png" width="200">
+
+## Cloud search
+You can search for specific content (notes and summaries) on the cloud, based on some criterias. You can also search for specific groups, and then send joining requests to join them.
+You become a member of a specific group only when the group owner accepts your joining request.
 
 # Further functionalities
 
@@ -249,4 +305,4 @@ You can check the application menu for more functionnalities.<br><br>
 # Download
 (Play Store) https://play.google.com/store/apps/details?id=ch.baker.planner
 
-(App Store) https://apps.apple.com/us/app/smartplanner-goals-made-easy/id6470530541
+(App Store) https://itunes.apple.com/app/id6470530541
