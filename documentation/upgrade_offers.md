@@ -18,7 +18,7 @@ However, there are some advanced and cloud features that are only available to u
 
 ### Cloud functionalities
 - Unlimited Access to Cloud content and functionalities
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/smartplanner-intro.gif" width="500">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/cloud_workflow.png" width="500">
 
 ### Silver Offer
 Silver offer gives permanent acces to advanced functionalities (Cloud functionalities very limited)
