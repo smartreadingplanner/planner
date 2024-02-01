@@ -7,10 +7,14 @@ The user can :
 - At the end of the schedule, elaborate a summary, by aggregating the notes or by writing a summary from scratch.
 - Pause the schedule for a given period, and resume it later on
 - Filter the list of displayed schedules, based on schedules tags and/or status
+- Share notes, summaries or schedule statistics online with other users
 
 There are 2 types of schedules:
 - Study schedules: for study, learning or reading tasks
 - Agenda schedules: general or daily life schedules (e.g. sport workout, personal tasks...etc)
+
+The main functions are illustrated below:
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/smartplanner-intro.gif" width="200">
 
 # **How** to use the SmartPlanner application
 ### Create the schedule or planning
@@ -175,7 +179,9 @@ _User schedules statistics:_ <br><br>
 
 You can share your content (notes, summaries and statistics) with other users online. You can get also content matching your respective schedules (match by tags ou keywords).
 
-## How content is shared
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud_workflow.png" width="200">
+
+### How content is shared
 When you share a content (note, summary or schedule status) online, it is shared with the following metadata:
 - The tags of the schedule to wich the content belongs
 - The keywords of the schedule to wich the content belongs
@@ -184,7 +190,7 @@ When you share a content (note, summary or schedule status) online, it is shared
 
 Once, you can update or delete the content on the cloud.
 
-### Sharing notes and summaries
+#### Sharing notes and summaries
 In the notes view, and summary view, you have the menu to share the content on the cloud. Below an illustration example for sharing a note online.
 
 _Task note menu:_ <br><br>
@@ -193,10 +199,10 @@ _Task note menu:_ <br><br>
 _Sharing a note privately within a group:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud/cloud_sharing_status_private.png" width="200">
 
-### Sharing schedule's status
+#### Sharing schedule's status
 The schedule's status can only shared within groups. It can not be shared publicly with all users.
 
-## Real time fetched content for schedules
+### Real time fetched content for schedules
 For each schedule, cloud content is fetched automatically on real time. The content is fetched based on the schedule tags and keywords.
 
 _Notifications about new cloud content:_ <br><br>
@@ -205,7 +211,7 @@ _Notifications about new cloud content:_ <br><br>
 _Cloud matching content for a given schedule:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud/schedules_new_cloud_content.png" width="200">
 
-## Cloud groups
+### Cloud groups
 Every user can create a group on the cloud. Other users online can then join this group.
 The group members can then share content privately (content accessible only for group members) within the group.
 
@@ -220,24 +226,30 @@ The group owner can manage the group settings. Accept or decline users requests 
 _Cloud group settings:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud/cloud_group_settings.png" width="200">
 
-## Cloud search
+### Cloud search
 You can search for specific content (notes and summaries) on the cloud, based on some criterias. You can also search for specific groups, and then send joining requests to join them.
 You become a member of a specific group only when the group owner accepts your joining request.
 
-# Application Backup
+## Application Backup
 You can upload a backup of your schedules and application data on your Google Drive account.
 You can later download this backup on the same device (be aware this will erase the actual application data). Or download this backup on another device.
 
-# Upload content to Google Drive
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/application_backup.png" width="200">
+
+## Upload content to Google Drive
 You can upload your content (summaries, folders with various notes & summaries) to your Google Drive.
 
-# Save content locally in the device
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/google_drive_upload.png" width="200">
+
+## Save content localy in the device
 You can save your content (summaries, folders with various notes & summaries) in your local device.
 
-# Advanced themes
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/content_local_save.png" width="200">
+
+## Advanced themes
 Upgraded users have access to advanced application themes.
 
-# Further functionalities
+## Further functionalities
 
 ### Global search
 You have the possibility to search your schedules, notes, summaries and their content.
