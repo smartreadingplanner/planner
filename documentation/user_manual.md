@@ -224,6 +224,13 @@ _Cloud group settings:_ <br><br>
 You can search for specific content (notes and summaries) on the cloud, based on some criterias. You can also search for specific groups, and then send joining requests to join them.
 You become a member of a specific group only when the group owner accepts your joining request.
 
+# Application Backup
+You can upload a backup of your schedules and application data on your Google Drive account.
+You can later download this backup on the same device (be aware this will erase the actual application data). Or download this backup on another device.
+
+# Advanced themes
+Upgraded users have access to advanced application themes.
+
 # Further functionalities
 
 ### Global search
