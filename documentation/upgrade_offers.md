@@ -7,10 +7,13 @@ However, there are some advanced and cloud features that are only available to u
 - Advanced themes
 - Application Backup
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/application_backup.png" width="500">
+
 - Content Upload to Google Drive
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/google_drive_upload.png" width="500">
+
 - Content saving into local device
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/content_local_save.png" width="500">
+
 - No Ads
 
 ### Cloud functionalities
