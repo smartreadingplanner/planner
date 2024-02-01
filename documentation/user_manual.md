@@ -188,10 +188,10 @@ Once, you can update or delete the content on the cloud.
 In the notes view, and summary view, you have the menu to share the content on the cloud. Below an illustration example for sharing a note online.
 
 _Task note menu:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/cloud/task_view_menu.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud/task_view_menu.png" width="200">
 
 _Sharing a note privately within a group:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/cloud/cloud_sharing_status_private.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud/cloud_sharing_status_private.png" width="200">
 
 ### Sharing schedule's status
 The schedule's status can only shared within groups. It can not be shared publicly with all users.
@@ -200,20 +200,20 @@ The schedule's status can only shared within groups. It can not be shared public
 For each schedule, cloud content is fetched automatically on real time. The content is fetched based on the schedule tags and keywords.
 
 _Notifications about new cloud content:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/cloud/schedules_list_with_cloud_notifs.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud/schedules_list_with_cloud_notifs.png" width="200">
 
 _Cloud matching content for a given schedule:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/cloud/schedules_new_cloud_content.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud/schedules_new_cloud_content.png" width="200">
 
 ## Cloud groups
 Every user can create a group on the cloud. Other users online can then join this group.
 The group members can then share content privately (content accessible only for group members) within the group.
 
 _Cloud groups:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/cloud/cloud_groups.png" width="200">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud/cloud_groups.png" width="200">
 
 _Cloud group content:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/cloud/cloud_group_content.png" width="200">group content>
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud/cloud_group_content.png" width="200">group content>
 
 The group owner can manage the group settings. Accept or decline users requests to join the group. Or delete members from the group.
 
