@@ -48,7 +48,7 @@ The list contains schedules headers with brief important information about the s
 > For study schedules also, the study progress is indicated in the schedule header.
 
 _Schedules list:_ <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/schedules_list.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/schedules_list.png" width="200">
 
 #### Additional custom tasks
 
@@ -95,7 +95,7 @@ The task runs with notes are indicated with the symbol 🗒. <br><br>
 
 ### Timetable view
 The timetable view shows the daily tasks (each day with its scheduled tasks), for all the active schedules. Below is an illustration. <br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/timetable.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/timetable.png" width="200">
 
 > You can run a task directly via the task header play button.
 
@@ -313,7 +313,7 @@ For example:
 
 ### Application menu
 You can check the application menu for more functionnalities.<br><br>
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/app_menu.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/app_menu.png" width="200">
 
 # Download
 (Play Store) https://play.google.com/store/apps/details?id=ch.baker.planner
