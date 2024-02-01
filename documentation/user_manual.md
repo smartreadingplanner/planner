@@ -14,7 +14,7 @@ There are 2 types of schedules:
 - Agenda schedules: general or daily life schedules (e.g. sport workout, personal tasks...etc)
 
 The main functions are illustrated below:
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/smartplanner-intro.gif" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/smartplanner-intro.gif" width="200">
 
 # **How** to use the SmartPlanner application
 ### Create the schedule or planning
@@ -234,17 +234,17 @@ You become a member of a specific group only when the group owner accepts your j
 You can upload a backup of your schedules and application data on your Google Drive account.
 You can later download this backup on the same device (be aware this will erase the actual application data). Or download this backup on another device.
 
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/application_backup.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/application_backup.png" width="200">
 
 ## Upload content to Google Drive
 You can upload your content (summaries, folders with various notes & summaries) to your Google Drive.
 
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/google_drive_upload.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/google_drive_upload.png" width="200">
 
 ## Save content localy in the device
 You can save your content (summaries, folders with various notes & summaries) in your local device.
 
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/content_local_save.png" width="200">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/content_local_save.png" width="200">
 
 ## Advanced themes
 Upgraded users have access to advanced application themes.
