@@ -8,15 +8,15 @@ However, there are some advanced functionalities and cloud features that are onl
 - Application Backup: \
 At any time, you can upload a backup of your schedules and application data on your Google Drive storage.\
 You can later download this backup on the same device (be aware that this will erase the actual application data). Or download this backup on another device. <br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/application_backup.png" width="350">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/application_backup.png" width="450">
 
 - Content Upload to Google Drive: \
 You can upload your content (summaries, folders with various notes & summaries) to your Google Drive. <br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/google_drive_upload.png" width="350">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/google_drive_upload.png" width="450">
 
 - Content saving into local device: \
 You can save your content (summaries, folders with various notes & summaries) in your local device. <br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/content_local_save.png" width="300">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/content_local_save.png" width="400">
 
 - No Ads
 
@@ -24,7 +24,7 @@ You can save your content (summaries, folders with various notes & summaries) in
 - Unlimited Access to Cloud content and functionalities\
 You can share your content (notes, summaries and statistics) with other users online. \
 On the other side, online content from other users that is matching your schedules (match by tags ou keywords) is automatically uploaded on real time. <br>
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/cloud_workflow.png" width="350">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/cloud_workflow.png" width="450">
 
 ### Offers
 There are 2 types of upgrade offers:
