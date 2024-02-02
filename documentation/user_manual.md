@@ -15,7 +15,7 @@ There are 2 types of schedules:
 
 The main functions are illustrated below: <br>
 
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/smartplanner-intro.gif" width="350">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/smartplanner-intro.gif" width="300">
 <br>
 
 # **How** to use the SmartPlanner application
