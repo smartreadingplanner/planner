@@ -13,7 +13,7 @@ There are 2 types of schedules:
 - Study schedules: for study, learning or reading tasks
 - Agenda schedules: general or daily life schedules (e.g. sport workout, personal tasks...etc)
 
-The main functions are illustrated below: <br><br>
+The main functions are illustrated below: <br>
 
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/smartplanner-intro.gif" width="400">
 <br>
@@ -178,7 +178,7 @@ _User schedules statistics:_ <br><br>
 
 # Cloud content
 
-You can share your content (notes, summaries and statistics) with other users online. You can get also content matching your respective schedules (match by tags ou keywords).<br><br>
+You can share your content (notes, summaries and statistics) with other users online. You can get also content matching your respective schedules (match by tags ou keywords).<br>
 
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/cloud_workflow.png" width="400">
 
@@ -233,17 +233,17 @@ You become a member of a specific group only when the group owner accepts your j
 
 ## Application Backup
 You can upload a backup of your schedules and application data on your Google Drive account.
-You can later download this backup on the same device (be aware this will erase the actual application data). Or download this backup on another device. <br><br>
+You can later download this backup on the same device (be aware this will erase the actual application data). Or download this backup on another device. <br>
 
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/application_backup.png" width="400">
 
 ## Upload content to Google Drive
-You can upload your content (summaries, folders with various notes & summaries) to your Google Drive. <br><br>
+You can upload your content (summaries, folders with various notes & summaries) to your Google Drive. <br>
 
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/google_drive_upload.png" width="400">
 
 ## Save content localy in the device
-You can save your content (summaries, folders with various notes & summaries) in your local device. <br><br>
+You can save your content (summaries, folders with various notes & summaries) in your local device. <br>
 
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/content_local_save.png" width="350">
 
