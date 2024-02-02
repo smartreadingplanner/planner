@@ -5,19 +5,19 @@ However, there are some advanced and cloud features that are only available to u
 ### Advanced functionalities
 
 - Advanced themes
-- Application Backup <br><br>
+- Application Backup <br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/application_backup.png" width="400">
 
-- Content Upload to Google Drive <br><br>
+- Content Upload to Google Drive <br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/google_drive_upload.png" width="400">
 
-- Content saving into local device <br><br>
+- Content saving into local device <br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/content_local_save.png" width="350">
 
 - No Ads
 
 ### Cloud functionalities
-- Unlimited Access to Cloud content and functionalities <br><br>
+- Unlimited Access to Cloud content and functionalities <br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/cloud_workflow.png" width="400">
 
 ### Silver Offer
