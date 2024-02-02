@@ -173,8 +173,8 @@ Contains all the statistics about the schedules and their runned tasks (tasks ru
 
 _User schedules statistics:_ <br><br>
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_2.png" width="150">
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_3.jpg" width="150" height="355">
-<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_4.jpg" width="150" height="355">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_3.jpg" width="150" height="265">
+<img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_4.jpg" width="150" height="265">
 <img src="https://raw.githubusercontent.com/smartreadingplanner/smartplanner/main/documentation/display/statistics_1.png" width="150">
 
 # Cloud content
@@ -205,7 +205,7 @@ _Sharing a note privately within a group:_ <br><br>
 #### Sharing schedule's status
 The schedule's status can only be shared privately within groups. It can not be shared publicly with all users.
 
-### Real time fetched content for schedules
+### Real time content fetched automatically for schedules
 For each schedule, online content that matches that schedule (based on the schedule's tags and keywords) is fetched automatically on real time.
 
 _Notifications about new cloud content:_ <br><br>
