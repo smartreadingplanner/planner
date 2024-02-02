@@ -34,4 +34,4 @@ Gold offer gives periodic (1 month, 3 months, or 1 year) access to both advanced
 
 #### Offers table
 
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/offers_table.png" width="300">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/offers_table.png" width="400">
