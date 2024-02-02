@@ -12,7 +12,7 @@ However, there are some advanced and cloud features that are only available to u
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/google_drive_upload.png" width="500">
 
 - Content saving into local device
-<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/content_local_save.png" width="500">
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/content_local_save.png" width="450">
 
 - No Ads
 
