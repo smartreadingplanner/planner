@@ -28,7 +28,7 @@ On the other side, online content from other users that is matching your schedul
 
 ### Offers
 There are 2 types of upgrade offers:
-- Silver: One time purchase that gives permanent access to the advanced functionalities described above. Cloud features are not included.
-- Gold: Subscription or periodic purchases that gives timed access (1 month, 3 months, or 1 year) to both advanced functionalities and Cloud features (for a given period).
+- **Silver Offer**: One time purchase that gives permanent access to the advanced functionalities described above. Cloud features are not included.
+- **Gold Offer**: Subscription or periodic purchases that gives timed access (1 month, 3 months, or 1 year) to both advanced functionalities and Cloud features (for a given period).
 
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/offers_table.png" width="400">
