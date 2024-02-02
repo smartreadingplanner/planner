@@ -31,3 +31,7 @@ Silver offer gives permanent acces to advanced functionalities (Cloud functional
 
 #### Gold Offer
 Gold offer gives periodic (1 month, 3 months, or 1 year) access to both advanced functionalities and full cloud features.
+
+#### Offers table
+
+<img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/offers_table.png" width="300">
