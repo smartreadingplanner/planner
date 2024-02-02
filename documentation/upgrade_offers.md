@@ -1,8 +1,8 @@
-# SmartPlanner Upgrade offers
+## SmartPlanner Upgrade offers
 The `SmartPlanner` application provides basic functionalities for free to all users.
 However, there are some advanced functionalities and cloud features that are only available to users with upgraded plans.
 
-### Advanced functionalities
+#### Advanced functionalities
 
 - Advanced themes
 - Application Backup: \
@@ -20,14 +20,14 @@ You can save your content (summaries, folders with various notes & summaries) in
 
 - No Ads
 
-### Cloud functionalities
+#### Cloud functionalities
 - Unlimited Access to Cloud content and functionalities\
 You can share your content (notes, summaries and statistics) with other users online. \
 On the other side, online content from other users that is matching your schedules (match by tags ou keywords) is automatically uploaded on real time. <br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/cloud_workflow.png" width="350">
 
-### Silver Offer
+#### Silver Offer
 Silver offer gives permanent acces to advanced functionalities (Cloud functionalities very limited)
 
-### Gold Offer
+#### Gold Offer
 Gold offer gives periodic (1 month, 3 months, or 1 year) access to both advanced functionalities and full cloud features.
