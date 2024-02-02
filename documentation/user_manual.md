@@ -18,7 +18,7 @@ The main functions are illustrated below: <br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/workflows/smartplanner-intro.gif" width="300">
 <br>
 
-# **How** to use the SmartPlanner application
+# **How** to use the SmartPlanner
 ### Create a schedule
 To create a schedule (or planning), you should provide:
 - The schedule title (e.g. for study or reading schedules, the book title for example)
