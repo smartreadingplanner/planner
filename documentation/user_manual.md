@@ -214,6 +214,9 @@ _Notifications about new cloud content:_ <br><br>
 _Cloud matching content for a given schedule:_ <br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/cloud/schedules_new_cloud_content.png" width="150">
 
+> You have the possibility to block a given user and all its content. Once blocked, you will get no content shared by this user. \
+> You can see the list of blocked users in your cloud (or online) view. You have the possibility, at any time, to unblock a user that you previously blocked.
+
 ### Cloud groups
 Every user can create groups on the cloud. The other users can then join this group.
 The group members can then share content with each other within the group (the shared content is accessible only for group members).
