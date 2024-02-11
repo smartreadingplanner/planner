@@ -236,6 +236,8 @@ _Cloud group settings:_ <br><br>
 You can search for specific content (notes and summaries) on the cloud, based on some criterias. You can also search for specific groups, and then send joining requests to join them.
 You become a member of a specific group only when the group owner accepts your joining request.
 
+> Schedules with no specified tag are created with the default tag ``General``. Content shared with this tag only is not automatically uploaded, but it can be searched and retrieved from the cloud.
+
 ## Application Backup
 At any time, you can upload a backup of your schedules and application data on your Google Drive storage.
 You can later download this backup on the same device (be aware that this will erase the actual application data). Or download this backup on another device. <br>
