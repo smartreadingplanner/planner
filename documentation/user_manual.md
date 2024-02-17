@@ -337,14 +337,14 @@ You can check the application menu for more functionnalities.<br><br>
 
 # Available translations
 The application is available with the following translations:
+- Türk
 - العربية
 - English
-- Français</li>
-- Deutsch</li>
-- Español</li>
-- Türk</li>
-- हिंदी</li>
-- বাংলা</li>
+- Français
+- Deutsch
+- Español
+- हिंदी
+- বাংলা
 - اردو
 - 日本
 - 中国人
