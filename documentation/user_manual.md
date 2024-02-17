@@ -335,6 +335,20 @@ For example:
 You can check the application menu for more functionnalities.<br><br>
 <img src="https://github.com/smartreadingplanner/smartplanner/blob/release/cloud/documentation/display/app_menu.png" width="150">
 
+# Available translations
+The application is available with the following translations:
+- العربية
+- English
+- Français</li>
+- Deutsch</li>
+- Español</li>
+- Türk</li>
+- हिंदी</li>
+- বাংলা</li>
+- اردو
+- 日本
+- 中国人
+
 # Download
 (Play Store) https://play.google.com/store/apps/details?id=ch.baker.planner
 
